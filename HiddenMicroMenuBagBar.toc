@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: HiddenMicroMenuBagBar
+## Notes: Per-bar visibility for the Micro Menu and Bags bar (neither hideable via Edit Mode): always visible, visible on mouseover only, or always hidden. Stays visible while Edit Mode is active either way.
+## Author: Richard Bankhead
+## Version: 1.1.0
+## SavedVariables: HiddenMicroMenuBagBarDB
+
+Core.lua
+Options.lua
